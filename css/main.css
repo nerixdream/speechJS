@@ -27,6 +27,13 @@ body {
 	align-items: center;
 }
 
+a{
+	text-decoration: none;
+}
+a:visited{
+	color: #fff;
+}
+
 /* -----MAIN----- */
 .main {
 	width: 92vw;
